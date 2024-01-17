@@ -25,7 +25,7 @@ What is HEAD?
 - B. A cursor pointing to a commit that you can move with `git checkout`.
 - C. An interface for using git.
 
-### Question 4
+### Question 4 ==>A
 
 A software forge like FramaGIT is :
 
