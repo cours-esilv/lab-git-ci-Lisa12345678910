@@ -1,14 +1,14 @@
 # Questions
 
-### Question 1
+### Question 1  ==>B
 
-What is a commit?
+What is a commit? 
 
 - A. A validated step in the code that appears in the repository history.
 - B. One of the multiple histories contained in a git repository.
 - C. Any recent modification made to one of the files in the repository.
 
-### Question 2
+### Question 2 ==>D
 
 How can I find out the current state of a repository?
 
@@ -17,7 +17,7 @@ How can I find out the current state of a repository?
 - C. `git status`
 - D. `git branch`
 
-### Question 3
+### Question 3 ==>A
 
 What is HEAD?
 
@@ -34,7 +34,7 @@ A software forge like FramaGIT is :
 - C. A tutorial platform for learning programming.
 - D. A useful platform for business collaboration.
 
-### Question 5
+### Question 5 ==>A
 
 Git allows you to :
 
@@ -43,7 +43,7 @@ Git allows you to :
 - C. Explore the history of software code
 - D. Get help with Python syntax
 
-### Question 6
+### Question 6 ==> B
 
 Where are previous versions of files hidden in git?
 
@@ -51,7 +51,7 @@ Where are previous versions of files hidden in git?
 - B. In an invisible .git folder for each repository.
 - C. In the /etc folder.
 
-### Question 7
+### Question 7 ==> B
 
 To change branch we use:
 
@@ -59,7 +59,7 @@ To change branch we use:
 - B. `git checkout <branch name>`
 - C. `git clone <branch name>`
 
-### Question 8
+### Question 8 ==> C
 
 Usually, what is the name of the main branch of a repository?
 
@@ -67,7 +67,7 @@ Usually, what is the name of the main branch of a repository?
 - B. `feature`
 - C. `main`
 
-### Question 9
+### Question 9 ==> B
 
 A branch is :
 
@@ -75,7 +75,7 @@ A branch is :
 - B. A repository history line
 - C. A merge operation
 
-### Question 10
+### Question 10 ==> A
 
 How can I find out what changes were made in the last commit?
 
